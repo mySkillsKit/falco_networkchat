@@ -1,0 +1,72 @@
+июн. 19, 2022 11:39:37 PM Main main
+INFO: Start Client Chat application
+июн. 19, 2022 11:39:37 PM Main main
+INFO: Read file settings.txt: Port = 8703
+июн. 19, 2022 11:39:37 PM Main main
+INFO: Client socket = Socket[addr=localhost/127.0.0.1,port=8703,localport=58421]
+июн. 19, 2022 11:40:43 PM Client start
+INFO: Hello this is falcochat!
+июн. 19, 2022 11:40:43 PM Client$1 run
+INFO: Client №1 [nickName:Anatily] connect!  All clients = 1
+июн. 19, 2022 11:40:43 PM Client$1 run
+INFO: Client №1 [nickName:Anatily] replied: Hello this is falcochat!
+июн. 19, 2022 11:41:38 PM Client$1 run
+INFO: Client №2 [nickName:Ivan-telnet] connect!  All clients = 2
+июн. 19, 2022 11:42:06 PM Client$1 run
+INFO: Client №2 [nickName:Ivan-telnet] replied: Hello my friends!
+июн. 19, 2022 11:42:19 PM Client start
+INFO: How are you?
+июн. 19, 2022 11:42:19 PM Client$1 run
+INFO: Client №1 [nickName:Anatily] replied: How are you?
+июн. 19, 2022 11:42:46 PM Client$1 run
+INFO: Client №2 [nickName:Ivan-telnet] replied: I'm fine! Thanks! And you?
+июн. 19, 2022 11:43:13 PM Client$1 run
+INFO: Client №3 [nickName:Fedor=telnet] connect!  All clients = 3
+июн. 19, 2022 11:43:31 PM Client$1 run
+INFO: Client №4 [nickName:Max-telnet] connect!  All clients = 4
+июн. 19, 2022 11:44:05 PM Client$1 run
+INFO: Client №5 [nickName:Victor-telnet] connect!  All clients = 5
+июн. 19, 2022 11:44:11 PM Client$1 run
+INFO: Client №5 [nickName:Victor-telnet] replied: Hi
+июн. 19, 2022 11:44:44 PM Client$1 run
+INFO: Client №6 [nickName:Vlad-telnet] connect!  All clients = 6
+июн. 19, 2022 11:45:17 PM Client$1 run
+INFO: Client №2 [nickName:Ivan-telnet] replied: Hi everybody!
+июн. 19, 2022 11:46:19 PM Client$1 run
+INFO: Client №6 [nickName:Vlad-telnet] replied: my name is Vlad
+июн. 19, 2022 11:46:42 PM Client$1 run
+INFO: Client №5 [nickName:Victor-telnet] replied: I'm Victor
+июн. 19, 2022 11:46:54 PM Client$1 run
+INFO: Client №4 [nickName:Max-telnet] replied: Nice to meet you
+июн. 19, 2022 11:47:04 PM Client$1 run
+INFO: Client №4 [nickName:Max-telnet] replied: bay
+июн. 19, 2022 11:47:07 PM Client$1 run
+INFO: Client №4 [nickName:Max-telnet] disconnect! All clients = 5
+июн. 19, 2022 11:47:38 PM Client$1 run
+INFO: Client №3 [nickName:Fedor=telnet] replied: Hello I am Fedor
+июн. 19, 2022 11:48:36 PM Client$1 run
+INFO: Client №6 [nickName:Vlad-telnet] replied: goodbye
+июн. 19, 2022 11:48:45 PM Client$1 run
+INFO: Client №6 [nickName:Vlad-telnet] replied: ����ex
+июн. 19, 2022 11:48:52 PM Client$1 run
+INFO: Client №6 [nickName:Vlad-telnet] disconnect! All clients = 4
+июн. 19, 2022 11:49:16 PM Client$1 run
+INFO: Client №3 [nickName:Fedor=telnet] replied: bay bay 
+июн. 19, 2022 11:49:20 PM Client$1 run
+INFO: Client №3 [nickName:Fedor=telnet] disconnect! All clients = 3
+июн. 19, 2022 11:49:56 PM Client$1 run
+INFO: Client №2 [nickName:Ivan-telnet] replied: Where are you from?
+июн. 19, 2022 11:50:11 PM Client start
+INFO: I am from Russia
+июн. 19, 2022 11:50:11 PM Client$1 run
+INFO: Client №1 [nickName:Anatily] replied: I am from Russia
+июн. 19, 2022 11:50:23 PM Client$1 run
+INFO: Client №5 [nickName:Victor-telnet] replied: I am too
+июн. 19, 2022 11:50:41 PM Client$1 run
+INFO: Client №2 [nickName:Ivan-telnet] replied: I am from Usa
+июн. 19, 2022 11:50:45 PM Client$1 run
+INFO: Client №2 [nickName:Ivan-telnet] disconnect! All clients = 2
+июн. 19, 2022 11:50:51 PM Client start
+INFO: exit
+июн. 19, 2022 11:50:51 PM Client$1 run
+INFO: Client №1 [nickName:Anatily] disconnect! All clients = 1

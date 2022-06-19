@@ -1,0 +1,114 @@
+июн. 19, 2022 11:39:07 PM Main main
+INFO: Start Server Chat application
+июн. 19, 2022 11:39:07 PM Main main
+INFO: Read file settings.txt: Port = 8703
+июн. 19, 2022 11:39:07 PM Server start
+INFO: Create ServerSocket / server is listening on port 8703
+июн. 19, 2022 11:39:37 PM Server start
+INFO: New client N1 request received: Socket[addr=/127.0.0.1,port=58421,localport=8703]
+июн. 19, 2022 11:39:37 PM Server start
+INFO: Creating a new handler for this client N1
+июн. 19, 2022 11:39:37 PM Server start
+INFO: Adding this client N1 to active client list
+июн. 19, 2022 11:40:10 PM ClientHandler sendMsgToAllClients
+INFO: Client №1 [nickName:Anatily] connect!  All clients = 1
+июн. 19, 2022 11:40:43 PM ClientHandler sendMsgToAllClients
+INFO: Client №1 [nickName:Anatily] replied: Hello this is falcochat!
+июн. 19, 2022 11:41:11 PM Server start
+INFO: New client N2 request received: Socket[addr=/0:0:0:0:0:0:0:1,port=58442,localport=8703]
+июн. 19, 2022 11:41:11 PM Server start
+INFO: Creating a new handler for this client N2
+июн. 19, 2022 11:41:11 PM Server start
+INFO: Adding this client N2 to active client list
+июн. 19, 2022 11:41:38 PM ClientHandler sendMsgToAllClients
+INFO: Client №2 [nickName:Ivan-telnet] connect!  All clients = 2
+июн. 19, 2022 11:42:06 PM ClientHandler sendMsgToAllClients
+INFO: Client №2 [nickName:Ivan-telnet] replied: Hello my friends!
+июн. 19, 2022 11:42:19 PM ClientHandler sendMsgToAllClients
+INFO: Client №1 [nickName:Anatily] replied: How are you?
+июн. 19, 2022 11:42:46 PM ClientHandler sendMsgToAllClients
+INFO: Client №2 [nickName:Ivan-telnet] replied: I'm fine! Thanks! And you?
+июн. 19, 2022 11:43:02 PM Server start
+INFO: New client N3 request received: Socket[addr=/0:0:0:0:0:0:0:1,port=58472,localport=8703]
+июн. 19, 2022 11:43:02 PM Server start
+INFO: Creating a new handler for this client N3
+июн. 19, 2022 11:43:02 PM Server start
+INFO: Adding this client N3 to active client list
+июн. 19, 2022 11:43:13 PM ClientHandler sendMsgToAllClients
+INFO: Client №3 [nickName:Fedor=telnet] connect!  All clients = 3
+июн. 19, 2022 11:43:23 PM Server start
+INFO: New client N4 request received: Socket[addr=/0:0:0:0:0:0:0:1,port=58473,localport=8703]
+июн. 19, 2022 11:43:23 PM Server start
+INFO: Creating a new handler for this client N4
+июн. 19, 2022 11:43:23 PM Server start
+INFO: Adding this client N4 to active client list
+июн. 19, 2022 11:43:31 PM ClientHandler sendMsgToAllClients
+INFO: Client №4 [nickName:Max-telnet] connect!  All clients = 4
+июн. 19, 2022 11:43:38 PM Server start
+INFO: New client N5 request received: Socket[addr=/0:0:0:0:0:0:0:1,port=58475,localport=8703]
+июн. 19, 2022 11:43:38 PM Server start
+INFO: Creating a new handler for this client N5
+июн. 19, 2022 11:43:38 PM Server start
+INFO: Adding this client N5 to active client list
+июн. 19, 2022 11:44:05 PM ClientHandler sendMsgToAllClients
+INFO: Client №5 [nickName:Victor-telnet] connect!  All clients = 5
+июн. 19, 2022 11:44:11 PM ClientHandler sendMsgToAllClients
+INFO: Client №5 [nickName:Victor-telnet] replied: Hi
+июн. 19, 2022 11:44:36 PM Server start
+INFO: New client N6 request received: Socket[addr=/0:0:0:0:0:0:0:1,port=58478,localport=8703]
+июн. 19, 2022 11:44:36 PM Server start
+INFO: Creating a new handler for this client N6
+июн. 19, 2022 11:44:36 PM Server start
+INFO: Adding this client N6 to active client list
+июн. 19, 2022 11:44:44 PM ClientHandler sendMsgToAllClients
+INFO: Client №6 [nickName:Vlad-telnet] connect!  All clients = 6
+июн. 19, 2022 11:45:17 PM ClientHandler sendMsgToAllClients
+INFO: Client №2 [nickName:Ivan-telnet] replied: Hi everybody!
+июн. 19, 2022 11:46:19 PM ClientHandler sendMsgToAllClients
+INFO: Client №6 [nickName:Vlad-telnet] replied: my name is Vlad
+июн. 19, 2022 11:46:42 PM ClientHandler sendMsgToAllClients
+INFO: Client №5 [nickName:Victor-telnet] replied: I'm Victor
+июн. 19, 2022 11:46:54 PM ClientHandler sendMsgToAllClients
+INFO: Client №4 [nickName:Max-telnet] replied: Nice to meet you
+июн. 19, 2022 11:47:04 PM ClientHandler sendMsgToAllClients
+INFO: Client №4 [nickName:Max-telnet] replied: bay
+июн. 19, 2022 11:47:07 PM ClientHandler sendMsgToAllClients
+INFO: Client №4 [nickName:Max-telnet] disconnect! All clients = 5
+июн. 19, 2022 11:47:07 PM ClientHandler run
+INFO: Close socket Client N4: Socket[addr=/0:0:0:0:0:0:0:1,port=58473,localport=8703]
+июн. 19, 2022 11:47:38 PM ClientHandler sendMsgToAllClients
+INFO: Client №3 [nickName:Fedor=telnet] replied: Hello I am Fedor
+июн. 19, 2022 11:48:36 PM ClientHandler sendMsgToAllClients
+INFO: Client №6 [nickName:Vlad-telnet] replied: goodbye
+июн. 19, 2022 11:48:45 PM ClientHandler sendMsgToAllClients
+INFO: Client №6 [nickName:Vlad-telnet] replied: ����ex
+июн. 19, 2022 11:48:52 PM ClientHandler sendMsgToAllClients
+INFO: Client №6 [nickName:Vlad-telnet] disconnect! All clients = 4
+июн. 19, 2022 11:48:52 PM ClientHandler run
+INFO: Close socket Client N6: Socket[addr=/0:0:0:0:0:0:0:1,port=58478,localport=8703]
+июн. 19, 2022 11:49:16 PM ClientHandler sendMsgToAllClients
+INFO: Client №3 [nickName:Fedor=telnet] replied: bay bay 
+июн. 19, 2022 11:49:20 PM ClientHandler sendMsgToAllClients
+INFO: Client №3 [nickName:Fedor=telnet] disconnect! All clients = 3
+июн. 19, 2022 11:49:20 PM ClientHandler run
+INFO: Close socket Client N3: Socket[addr=/0:0:0:0:0:0:0:1,port=58472,localport=8703]
+июн. 19, 2022 11:49:56 PM ClientHandler sendMsgToAllClients
+INFO: Client №2 [nickName:Ivan-telnet] replied: Where are you from?
+июн. 19, 2022 11:50:11 PM ClientHandler sendMsgToAllClients
+INFO: Client №1 [nickName:Anatily] replied: I am from Russia
+июн. 19, 2022 11:50:23 PM ClientHandler sendMsgToAllClients
+INFO: Client №5 [nickName:Victor-telnet] replied: I am too
+июн. 19, 2022 11:50:41 PM ClientHandler sendMsgToAllClients
+INFO: Client №2 [nickName:Ivan-telnet] replied: I am from Usa
+июн. 19, 2022 11:50:45 PM ClientHandler sendMsgToAllClients
+INFO: Client №2 [nickName:Ivan-telnet] disconnect! All clients = 2
+июн. 19, 2022 11:50:45 PM ClientHandler run
+INFO: Close socket Client N2: Socket[addr=/0:0:0:0:0:0:0:1,port=58442,localport=8703]
+июн. 19, 2022 11:50:51 PM ClientHandler sendMsgToAllClients
+INFO: Client №1 [nickName:Anatily] disconnect! All clients = 1
+июн. 19, 2022 11:50:51 PM ClientHandler run
+INFO: Close socket Client N1: Socket[addr=/127.0.0.1,port=58421,localport=8703]
+июн. 19, 2022 11:51:01 PM ClientHandler sendMsgToAllClients
+INFO: Client №5 [nickName:Victor-telnet] disconnect! All clients = 0
+июн. 19, 2022 11:51:01 PM ClientHandler run
+INFO: Close socket Client N5: Socket[addr=/0:0:0:0:0:0:0:1,port=58475,localport=8703]
